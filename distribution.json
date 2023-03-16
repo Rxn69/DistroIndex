@@ -214,7 +214,7 @@
               }
             },
 		{
-              "id": "m:SylvystaClient:1.8.9@jar",
+              "id": "sylvysta:SylvystaClient:1.8.9@jar",
               "name": "Client Core (SylvystaClient)",
               "type": "Library",
               "artifact": {
